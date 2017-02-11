@@ -20,7 +20,7 @@ This simple script draws discrete timelines (see below for an example). It has j
 <script type="text/javascript" src="timeline.js"></script>
 ```
 
- - Use init to create an empty timeline. (First argument is id of container, see [Documentation](#Documentation) for more information.
+ - Use init to create an empty timeline. (First argument is id of container, see [Documentation](#documentation) for more information.
 
 ```
 Timeline.init( "timeline", 4, 100, ["Alex", "Bob", "Alice", "John"]);
